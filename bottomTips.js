@@ -54,7 +54,7 @@ document.body.innerHTML += `
             align-self: flex-end;
         }
         #copyright label {
-            font-family: Arial, sans-serif, "Yu Mincho", "Microsoft JhengHei"
+            font-family: Arial, sans-serif, "Yu Mincho", "Microsoft JhengHei";
         }
     </style>
     <!-- Vấn đề về não -->
