@@ -28,6 +28,12 @@ var textArr = [
   "Super Secret Easter Egg!!!!",
   "Xue hua piao piao",
   "Super Idol de xiao rong",
+  "Hello là tạm biệt",
+  "お前はもう死んでいる",
+  "Bạn nên chơi Minecraft",
+  "DIAMONDS!!!!",
+  "King of rocks",
+  "Chàng béo quê miền tây",
 ];
 var randomIndex = Math.floor(Math.random() * textArr.length);
 var randomText = textArr[randomIndex];
