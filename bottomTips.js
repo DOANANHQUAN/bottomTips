@@ -48,7 +48,8 @@ document.body.innerHTML += `
             position: fixed;
             bottom: 0;
             left: 0;
-            padding: 20px
+            padding: 5px;
+            display: flex;
         }
         #copyright img,
         #copyright label {
