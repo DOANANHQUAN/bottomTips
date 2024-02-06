@@ -45,9 +45,10 @@ document.body.innerHTML += `
     </div>
     <style>
         #copyright {
-            display: flex;
-            position: absolute;
-            top: 100%;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            padding: 20px
         }
         #copyright img,
         #copyright label {
