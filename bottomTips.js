@@ -45,11 +45,14 @@ document.body.innerHTML += `
     </div>
     <style>
         #copyright {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            padding: 5px;
+            // position: fixed;
+            // bottom: 0;
+            // left: 0;
+            // padding: 5px;
+            // display: flex;
             display: flex;
+            position: absolute;
+            top: 100%
         }
         #copyright img,
         #copyright label {
