@@ -47,7 +47,7 @@ document.body.innerHTML += `
         #copyright {
             display: flex;
             position: absolute;
-            top: calc(100% - 30px);
+            top: calc(100% - 40px);
         }
         #copyright img,
         #copyright label {
